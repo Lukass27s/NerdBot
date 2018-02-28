@@ -1,5 +1,5 @@
 # NerdBot
-- Currently closed source
+- Currently closed source (This text inspired by Flash)
 
 <a href="https://discordbots.org/bot/332997639807434763">
   <img src="https://discordbots.org/api/widget/332997639807434763.svg" alt="Discord Bots" />
