@@ -7,7 +7,6 @@ Some cool Commands:
 - `clear` - clear messages out of the chat
 - `disablelevelupmessage` - disable the levelup-messages
 - `music` - sends help for music-commands
-- `privatevoice` - create some nice private voice channels <br><img src="https://i.imgur.com/27Fq06h.gifv" height="239" width="338">
 - `roll` - roll a dice
 - `say` - say somthing with the bot
 - `sayemote` - say something with the bot ... but in emoteletters
