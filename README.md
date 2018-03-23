@@ -11,6 +11,11 @@ Some cool Commands:
 - `say` - say somthing with the bot
 - `sayemote` - say something with the bot ... but in emoteletters
 
+NEW:
+
+- `subcounter` - show YouTube-Subscribers and Twitter-Follower
+<a href="https://bit.ly/NerdBot"><img src="https://i.imgur.com/RE1tdKc.png"/>
+</a>
 <a href="https://discordbots.org/bot/332997639807434763">
   <img src="https://discordbots.org/api/widget/332997639807434763.svg" alt="Discord Bots" />
 </a>
